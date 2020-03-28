@@ -23,6 +23,6 @@ class ArticlesController < ApplicationController
   end
  
   def update
-end
+  end
   # add edit and update methods here
 end
